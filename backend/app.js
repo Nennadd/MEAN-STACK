@@ -10,7 +10,7 @@ const usersRoutes = require("./routes/users");
 
 mongoose
   .connect(
-    "mongodb+srv://nenad:mongo6535bre@nenaddb-mrl5d.mongodb.net/mean-stack?retryWrites=true&w=majority",
+    "mongodb+srv://nenad:"+MONGO_PASS+"@nenaddb-mrl5d.mongodb.net/mean-stack?retryWrites=true&w=majority",
     { useNewUrlParser: true, useUnifiedTopology: true, useCreateIndex: true }
   )
   .then(() => {
