@@ -1,0 +1,21 @@
+mat-expansion-panel {
+  box-shadow: 1px 2px 4px #aaa !important;
+}
+.info {
+  text-align: center;
+}
+mat-spinner {
+  margin: 0 auto;
+}
+h3 {
+  color: purple;
+}
+.post-image {
+  width: 100%;
+  margin: 1rem 0;
+  text-align: center;
+}
+.post-image img {
+  max-width: 95%;
+  height: auto;
+}
