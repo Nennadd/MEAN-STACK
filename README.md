@@ -1,1 +1,1 @@
-Angular SPA / Node/Express API / MongoDB / JWT
+Angular SPA ** Node/Express API ** MongoDB ** JWT
